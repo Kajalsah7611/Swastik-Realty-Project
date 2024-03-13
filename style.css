@@ -27,7 +27,6 @@ body {
 .carousel-inner {
   height: 80vh;
   border-radius: 5px;
-  box-shadow: #413f3f;
 }
 .carousel-item,.carousel-item img{
   width: 100%;
